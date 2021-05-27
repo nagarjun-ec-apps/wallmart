@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 
-=======
 my frind 
 Mmahaboob
 hello guys git commanda are very imp...
@@ -12,4 +10,3 @@ reddy
 maharjun 
 updated
 hi guys
->>>>>>> 60dabc5... updated
